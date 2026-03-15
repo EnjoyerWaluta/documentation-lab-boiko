@@ -1,4 +1,4 @@
-# 📄 CHANGELOG.md
+#CHANGELOG.md
 
 ```markdown
 # Changelog
